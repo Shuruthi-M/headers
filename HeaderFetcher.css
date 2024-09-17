@@ -1,0 +1,74 @@
+#logo {
+    margin: 0;
+    padding: 0;
+    color: white;
+    margin-left: 20px;
+}
+
+#logo h2, 
+#logo #logo1 {
+    margin: 0;
+    padding: 0;
+}
+
+#logo1 {
+    display: flex;
+}
+
+#logo1 p, 
+#logo1 h1 {
+    margin: 0;
+    padding: 0;
+}
+  #navbar ul {
+    list-style-type: none;
+    margin-left: 700px;
+  }
+  
+  #navbar ul li {
+    display: inline;
+    margin-right: 20px;
+    width: 100px;
+  }
+  
+  #navbar ul li a {
+    color: white; 
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  #navbar ul li a:hover {
+    color: lightgray;
+  }
+  .securepage
+  {
+    background-color: green;
+    display: flex;
+    border-bottom: 1px solid white;
+  }
+  #url
+  {
+    width: 300px;
+    height:50px;
+    border: 1px solid gray;
+    border-radius: 5px;
+  }
+  #button
+  {
+    width: 100px;
+    height:50px;
+    border: 1px solid gray;
+    border-radius: 5px;
+  }
+  .scanlink
+  {
+    display: flex;
+    gap: 3px;
+    margin-left: 450px;
+  }
+  .display
+{
+    background-color: green;
+    height: 250px;
+}
+  
